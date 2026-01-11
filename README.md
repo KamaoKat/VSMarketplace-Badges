@@ -8,11 +8,11 @@ Insert version, installs and rating badges for VSMarketplace extensions easily t
 
 将VSMarketplace扩展的版本、安装量和评分等徽章轻松插入到您的HTML或Markdown页面。
 
-**Homepage/主页**: [`https://xuangeaha.github.io/`](https://xuangeaha.github.io/)
+**Homepage/主页**: [`https://www.xuangeaha.xyz/`](https://www.xuangeaha.xyz/)
 
-**Repository/仓库**: [`https://github.com/Xuangeaha/VSMarketplace-Badges`](https://github.com/Xuangeaha/VSMarketplace-Badges)
+**Repository/仓库**: [`https://github.com/KamaoKat/VSMarketplace-Badges`](https://github.com/KamaoKat/VSMarketplace-Badges)
 
-**Issues/问题**: [`https://github.com/Xuangeaha/VSMarketplace-Badges/issues`](https://github.com/Xuangeaha/VSMarketplace-Badges/issues)
+**Issues/问题**: [`https://github.com/KamaoKat/VSMarketplace-Badges/issues`](https://github.com/KamaoKat/VSMarketplace-Badges/issues)
 
 **Changelog/更新日志**: [`https://marketplace.visualstudio.com/items/XuangeAha.vsmarketplace-badges/changelog`](https://marketplace.visualstudio.com/items/XuangeAha.vsmarketplace-badges/changelog)
 
@@ -20,7 +20,7 @@ Insert version, installs and rating badges for VSMarketplace extensions easily t
 
 **Download/下载**: [`https://marketplace.visualstudio.com/items?itemName=XuangeAha.vsmarketplace-badges`](https://marketplace.visualstudio.com/items?itemName=XuangeAha.vsmarketplace-badges)
 
-**Copyright (c) 2023 XuangeAha(轩哥啊哈OvO)**
+**Copyright (c) 2023-2026 KamaoKat(卡猫kat,XuangeAha(轩哥啊哈OvO))**
 
 # How To Use 使用方法
 

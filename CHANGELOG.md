@@ -1,8 +1,8 @@
 # Change Log
 
-All notable changes to the "vsmarketplace-badges" extension will be documented in this file.
+## 2026.1.0 2026-01-11
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+Update author information.
 
 ## 1.0.3 2023-05-14
 
