@@ -1,5 +1,9 @@
 # Change Log
 
+## 2026.2.0 2026-05-14
+
+Clear up excessive catagories and keyword in package.json.
+
 ## 2026.1.0 2026-01-11
 
 Update author information.

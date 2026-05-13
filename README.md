@@ -8,7 +8,7 @@ Insert version, installs and rating badges for VSMarketplace extensions easily t
 
 将VSMarketplace扩展的版本、安装量和评分等徽章轻松插入到您的HTML或Markdown页面。
 
-**Homepage/主页**: [`https://www.xuangeaha.xyz/`](https://www.xuangeaha.xyz/)
+**Homepage/主页**: [`https://kamaokat.github.io//`](https://kamaokat.github.io/)
 
 **Repository/仓库**: [`https://github.com/KamaoKat/VSMarketplace-Badges`](https://github.com/KamaoKat/VSMarketplace-Badges)
 
@@ -37,6 +37,10 @@ Insert version, installs and rating badges for VSMarketplace extensions easily t
 2. Select `Insert VSMarketplace Badges` to **insert vsmarketplace badges**. 选择 `Insert VSMarketplace Badges` 以插入徽章。
 3. Type in your **publisher name and entension name** in the format of `publishername.entensionname`.  以 `publishername.entensionname` 的格式键入**发布者名和扩展名**。
 4. Press `Tab` and **finish**.  按下 `Tab` 后**完成**。
+
+# Source URL 源网址
+
+https://vsmarketplacebadges.dev/
 
 # Language Supports 语言支持
 
